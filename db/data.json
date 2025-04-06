@@ -1,27 +1,15 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
-      "complete": false
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni quaerat maxime laborum provident, cumque earum repellat laboriosam velit tempore iusto nesciunt itaque deserunt molestias quos autem soluta minima eveniet totam?",
       "complete": true
     },
     {
-      "id": "6649",
-      "title": "Make a new web",
-      "details": "asdfsadf",
-      "complete": false
-    },
-    {
-      "id": "e713",
-      "title": "sadfsaf",
-      "details": "asdfasdfewrf",
+      "id": "2",
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
       "complete": false
     }
   ]
